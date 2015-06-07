@@ -1,0 +1,14 @@
+Map link: 
+	https://www.openstreetmap.org/node/271613766
+
+Download: 
+	https://s3.amazonaws.com/metro-extracts.mapzen.com/cairo_egypt.osm.bz2
+
+Reason for this map: 
+	I chose this map because i live in Egypt, Cairo.
+
+Description:
+	I was quite excited that i found my city in the metro extracts. So i decided i should look into how cairo is mapped in the Open Street Map project. The file size wasn't too big, so i guess that made my decision even easier.
+
+
+
